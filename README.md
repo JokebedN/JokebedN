@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Nancy :)
 
-<!--
-**JokebedN/JokebedN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior at **UCLA** studying **Linguistics & Computer Science**, graduating June 2027. I like building software that sits where language, data, and people meet.
 
-Here are some ideas to get you started:
+- 🔭 **Now:** building an interpreter in Python for my programming languages course, and working as a research assistant in a UCLA prosody (speech) lab, processing speech data in Python
+- 🛠️ **Interests:** backend and full-stack development, programming languages, human-computer interaction, NLP
+- 🌍 **Languages:** English and French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I use:** Python · JavaScript · TypeScript · C++ · React · Node.js/Express · Flask · MongoDB · Git
+
+**Featured project:** [Datafy](https://github.com/JokebedN/datafy): full-stack Spotify listening journal (I built the listening-entries backend, search, and analytics)
+
+📫 [LinkedIn](https://www.linkedin.com/in/nancy-j-zognou) · nzognou@g.ucla.edu
